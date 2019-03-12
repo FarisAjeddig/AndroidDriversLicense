@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Permis de conduire</string>
+    <string name="texte_permis_de_conduire">Permis de conduire</string>
+    <string name="texte_numero_permis">L 1531-171274-08</string>
+    <string name="texte_nom">Lapointe</string>
+    <string name="texte_prenom">Anne-Marie</string>
+    <string name="texte_date_de_naissance">Date de naissance (A-M-J) :</string>
+    <string name="texte_DDN_value">1974-12-17</string>
+    <string name="texte_adresse">333, BOULEVARD JEAN-LESAGE\nAPP. 432\nQUÉBEC (QC) G1K 8J6</string>
+    <string name="texte_sexe">Sexe :</string>
+    <string name="texte_sexe_value">F</string>
+    <string name="texte_classes">Classe(s) : </string>
+    <string name="texte_classes_value">5</string>
+    <string name="texte_taille">Taille (cm) :</string>
+    <string name="texte_taille_value">168</string>
+    <string name="texte_yeux">Yeux :</string>
+    <string name="texte_yeux_value">BLEU</string>
+    <string name="texte_valider">Valide le :</string>
+    <string name="texte_valider_value">2014-10-01</string>
+    <string name="texte_expire">Expire le :</string>
+    <string name="texte_expire_value">2022-12-17</string>
+    <string name="texte_paiement">Paiement exigé chaque année à votre date anniversaire de naissance</string>
+
+    <string name="texte_label_prenom">Prénom :</string>
+    <string name="texte_label_nom">Nom :</string>
+    <string name="texte_label_maj">Mettre à jour</string>
+    <string name="texte_label_nouveau_prenom">Nouveau prénom</string>
+    <string name="texte_label_nouveau_nom">Nouveau nom</string>
+    <string name="texte_label_afficher_paiement">Cacher les informations concernant le paiement ?</string>
+
+    <string name="texte_send_toast">Toast !</string>
+    <string name="texte_send_notification">Notification !</string>
+
+    <string name="f">F</string>
+    <string name="m">M</string>
+
+    <string name="menu1">Menu 1</string>
+    <string name="menu2">Menu 2</string>
+</resources>

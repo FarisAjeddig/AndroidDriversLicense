@@ -1,0 +1,25 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <!-- Style personnalisé : Affiche un texte en rouge d'une taille de police de 12sp. -->
+    <style name="carte">
+        <item name="android:color">#FF0000</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+    <style name="carte.section1">
+        <item name="android:layout_marginLeft">10dp</item>
+        <item name="android:layout_marginTop">10dp</item>
+        <item name="android:layout_marginRight">10dp</item>
+    </style>
+
+    <style name="carte.section1.image">
+        <item name="srcCompat">@mipmap/ic_launcher</item>
+    </style>
+
+</resources>
